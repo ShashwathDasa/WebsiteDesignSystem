@@ -1,0 +1,73 @@
+body>div{
+    border: 1px solid black;
+    margin: 10px 50px;
+    padding: 10px;
+    
+}
+
+.color-guide>p {
+    border: 1px solid black;
+    width: 32%;
+    color: white;
+    display: inline-block;
+    min-height:100px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#papaya-orange {
+    background-color: #FF7B08;
+}
+
+#dark-grey {
+    background-color: #A9A9A9;
+}
+
+#deep-sky-blue {
+    background-color: #00bfff;
+}
+
+#bubblegum {
+    background-color: #ffc1cc;
+}
+
+#lime {
+    background-color: #00FF00;
+}
+
+#rosso-corsa{
+    background-color: #d40000;
+}
+
+#fonts div {
+    width: 45%;
+    display: inline-block;
+
+}
+h3 {
+    text-decoration: underline;
+    font-weight: 900;
+    color:black;
+}
+
+#dancing-script {
+    font-family: 'Dancing Script';
+    font-size: large;
+}
+
+#roboto-mono {
+    font-family: 'Roboto Mono';
+    
+    
+}
+#cinzel {
+    font-family: Cinzel;
+}
+
+.slant{
+    font-style: italic;
+}
+
+.thick{
+    font-weight: 900;
+}
